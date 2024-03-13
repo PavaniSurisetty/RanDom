@@ -12,3 +12,7 @@ local repo,
 central repo
 trying to add new content 
 try to add 
+this is just for Practicing git commands
+git add readme.MD (staging area)
+git commit -m "first commit "(local repo)
+git push origin master (central repo)
