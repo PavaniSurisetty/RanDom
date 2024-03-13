@@ -6,7 +6,7 @@ add some content to it (work space)
 # git add readme.MD (staging area)
 # git commit -m "first commit "(local repo)
 # git push origin master (central repo)
-Work space  
-staging area 
-local repo
+Work space,
+staging area,
+local repo,
 central repo
